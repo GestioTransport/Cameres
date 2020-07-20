@@ -3,6 +3,7 @@
 
 <body style="padding: 0; margin: 0;height: 100%">
     <img id="iframeid" src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc3.jpg" title="Càmera de trànsit">
+    <p id="hora"></p>
 </body>
 <script>
     const queryString = window.location.search;
@@ -10,7 +11,7 @@
     const id_cam = urlParams.get('id')
     const font = urlParams.get('font')
     function myFunction() {
-        myVar = setInterval(actualitza, 60000);
+        myVar = setInterval(actualitza, 10000);
     }
     function actualitza(){
         switch(font){
@@ -24,6 +25,14 @@
                 document.getElementById('iframeid').src = 'http://mct.gencat.cat/mct2bo/RenderService?sctidcam='+id_cam+'.jpg'; break;
 
         }
+        var currentdate = new Date(); 
+        var datetime = "Actualització web: " + currentdate.getDate() + "/"
+                + (currentdate.getMonth()+1)  + "/" 
+                + currentdate.getFullYear() + " @ "  
+                + currentdate.getHours() + ":"  
+                + currentdate.getMinutes() + ":" 
+                + currentdate.getSeconds();
+        document.getElementById("hora").innerHTML=datetime;
     }
     actualitza();
     myFunction();

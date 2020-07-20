@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="es" style="height: 100%;">
+
+<body style="padding: 0; margin: 0;height: 100%">
+    <iframe id="iframeid" style="width:100%;height:100%" src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc3.jpg" title="Càmera de trànsit"></iframe>
+
+</body>
+<script>
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const id_cam = urlParams.get('id')
+    const font = urlParams.get('font')
+    function myFunction() {
+        myVar = setInterval(actualitza, 60000);
+    }
+    function actualitza(){
+        switch(font){
+            case "bcn":
+                document.getElementById('iframeid').src = 'http://www.bcn.cat/transit/imatges/'+id_cam+'.gif?a=1'; break;
+            case "terrassa":
+                document.getElementById('iframeid').src = 'http://urgell.terrassa.cat/it_terrassa/'+id_cam+'.jpeg?a=1'; break;
+            case "andorra":
+                document.getElementById('iframeid').src = 'http://www.mobilitat.ad/mapa/fotos/'+id_cam+'.jpg?a=1'; break;
+            default:
+                document.getElementById('iframeid').src = 'http://mct.gencat.cat/mct2bo/RenderService?sctidcam='+id_cam+'.jpg'; break;
+
+        }
+    }
+    actualitza();
+    myFunction();
+
+
+</script>
+</html>

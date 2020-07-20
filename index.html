@@ -1,8 +1,8 @@
 <!doctype html>
 <html lang="es" style="height: 100%;">
 
-<body style="padding: 0; margin: 0;height: 100%;background: white;">
-    <img id="iframeid" src="http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc3.jpg" title="Càmera de trànsit">
+<body style="padding: 0; margin: 0;height: 100%">
+    <img id="iframeid" src="https://raw.githubusercontent.com/GestioTransport/Cameres/master/loading.png" title="Càmera de trànsit">
     <p id="hora"></p>
 </body>
 <script>
@@ -14,7 +14,7 @@
         myVar = setInterval(actualitza, 60000);
     }
     function actualitza(){
-                document.getElementById('iframeid').src = 'http://mct.gencat.cat/mct2bo/RenderService?sctidcam=0.jpg'; break;
+        document.getElementById('iframeid').src = 'https://raw.githubusercontent.com/GestioTransport/Cameres/master/loading.png';
 
         switch(font){
             case "bcn":
@@ -28,7 +28,7 @@
 
         }
         var currentdate = new Date(); 
-        var datetime = "Actualització de la web: " + currentdate.getDate() + "/"
+        var datetime = "Last Sync: " + currentdate.getDate() + "/"
                 + (currentdate.getMonth()+1)  + "/" 
                 + currentdate.getFullYear() + " @ "  
                 + currentdate.getHours() + ":"  

@@ -14,6 +14,8 @@
         myVar = setInterval(actualitza, 60000);
     }
     function actualitza(){
+                document.getElementById('iframeid').src = 'http://mct.gencat.cat/mct2bo/RenderService?sctidcam=0.jpg'; break;
+
         switch(font){
             case "bcn":
                 document.getElementById('iframeid').src = 'http://www.bcn.cat/transit/imatges/'+id_cam+'.gif?a=1'; break;
@@ -26,7 +28,7 @@
 
         }
         var currentdate = new Date(); 
-        var datetime = "Actualització web: " + currentdate.getDate() + "/"
+        var datetime = "Actualització de la web: " + currentdate.getDate() + "/"
                 + (currentdate.getMonth()+1)  + "/" 
                 + currentdate.getFullYear() + " @ "  
                 + currentdate.getHours() + ":"  

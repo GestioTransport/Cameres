@@ -11,7 +11,7 @@
     const id_cam = urlParams.get('id')
     const font = urlParams.get('font')
     function myFunction() {
-        myVar = setInterval(actualitza, 60000);
+        myVar = setInterval(upd, 60000);
     }
     function actualitza(){
         document.getElementById('iframeid').src = 'https://raw.githubusercontent.com/GestioTransport/Cameres/master/loading.png';
@@ -36,8 +36,12 @@
                 + currentdate.getSeconds();
         document.getElementById("hora").innerHTML=datetime;
     }
+    function upd(){
+        location.reload(); 
+    }
     actualitza();
     myFunction();
+    
 
 
 </script>

@@ -1,0 +1,105 @@
+ns2:coordinates;ns3:carretera;ns3:municipi;ns3:pk;ns3:link;ns3:font;font;id;url
+1.50065231,42.49383514;CG1 (PONT SANTA COLOMA;Andorra;;http://www.mobilitat.ad/mapa/fotos/adm_Pont_Santa_Coloma.jpg?a=1;Andorra;andorra;adm_Pont_Santa_Coloma;?font=andorra&id=adm_Pont_Santa_Coloma
+1.58929257,42.53669708;CG2;Andorra;5,56;http://www.mobilitat.ad/mapa/fotos/adm_mpeg_Encamp%20Nord.jpg?a=1;Andorra;andorra;adm_mpeg_Encamp%20Nord;?font=andorra&id=adm_mpeg_Encamp%20Nord
+1.70063604,42.54668826;CG2;Andorra;21,42;http://www.mobilitat.ad/mapa/fotos/adm_mpeg_Grau%20Roig.jpg?a=1;Andorra;andorra;adm_mpeg_Grau%20Roig;?font=andorra&id=adm_mpeg_Grau%20Roig
+1.73071993,42.54664232;CG2;Andorra;30;http://www.mobilitat.ad/mapa/fotos/adm_mpeg_Bombers.jpg?a=1;Andorra;andorra;adm_mpeg_Bombers;?font=andorra&id=adm_mpeg_Bombers
+1.47415294,42.43629443;CG1;Andorra;11,18;http://www.mobilitat.ad/mapa/fotos/adm_h263_Riu%20Runner.jpg?a=1;Andorra;andorra;adm_h263_Riu%20Runner;?font=andorra&id=adm_h263_Riu%20Runner
+1.48938748,42.4805262;CG1;Andorra;5,3;http://www.mobilitat.ad/mapa/fotos/adm_h263_Margineda.jpg?a=1;Andorra;andorra;adm_h263_Margineda;?font=andorra&id=adm_h263_Margineda
+1.5278171,42.50519513;CG1;Andorra;0,4;http://www.mobilitat.ad/mapa/fotos/adm_mpeg4_bus.jpg?a=1;Andorra;andorra;adm_mpeg4_bus;?font=andorra&id=adm_mpeg4_bus
+1.4866837,42.45700833;CG1;Andorra;8,5;http://www.mobilitat.ad/mapa/fotos/adm_h263_Sant%20Eloi.jpg?a=1;Andorra;andorra;adm_h263_Sant%20Eloi;?font=andorra&id=adm_h263_Sant%20Eloi
+2.18207217,41.38141543;Pla�a Antonio L�pez;Barcelona;;http://www.bcn.cat/transit/imatges/PlAntonioLopez.gif?a=1;IMI;bcn;PlAntonioLopez;?font=bcn&id=PlAntonioLopez
+2.16560024,41.3871296;Balmes - Gran Via;Barcelona;;http://www.bcn.cat/transit/imatges/BalmesGranVia.gif?a=1;IMI;bcn;BalmesGranVia;?font=bcn&id=BalmesGranVia
+2.14077336,41.40444905;Balmes - Mitre;Barcelona;;http://www.bcn.cat/transit/imatges/BalmesMitre.gif?a=1;IMI;bcn;BalmesMitre;?font=bcn&id=BalmesMitre
+2.14766551,41.40120644;Pla�a Molina;Barcelona;;http://www.bcn.cat/transit/imatges/PlMolina.gif?a=1;IMI;bcn;PlMolina;?font=bcn&id=PlMolina
+2.18912039,41.39305967;Marina - Pujades;Barcelona;;http://www.bcn.cat/transit/imatges/MarinaPujades.gif?a=1;IMI;bcn;MarinaPujades;?font=bcn&id=MarinaPujades
+2.10713156,41.38865464;Ronda de Dalt / Carretera Esplugues;Barcelona;;http://www.bcn.cat/transit/imatges/RondadeDaltCrtaEsplugues.gif?a=1;IMI;bcn;RondadeDaltCrtaEsplugues;?font=bcn&id=RondadeDaltCrtaEsplugues
+2.1468751,41.34935557;Ronda Litoral / Zona Franca;Barcelona;;http://www.bcn.cat/transit/imatges/RondaLitoralZonaFranca.gif?a=1;IMI;bcn;RondaLitoralZonaFranca;?font=bcn&id=RondaLitoralZonaFranca
+2.15162852,41.43769067;Ronda de Dalt / Vel�drom;Barcelona;;http://www.bcn.cat/transit/imatges/RondadeDaltVelodrom.gif?a=1;IMI;bcn;RondadeDaltVelodrom;?font=bcn&id=RondadeDaltVelodrom
+2.13618326,41.41525263;Ronda de Dalt / Sant Gervasi;Barcelona;;http://www.bcn.cat/transit/imatges/RondadeDaltSantGervasi.gif?a=1;IMI;bcn;RondadeDaltSantGervasi;?font=bcn&id=RondadeDaltSantGervasi
+2.19057765,41.40415691;Diagonal - Ciutat de Granada;Barcelona;;http://www.bcn.cat/transit/imatges/DiagonalCiutatdeGranada.gif?a=1;IMI;bcn;DiagonalCiutatdeGranada;?font=bcn&id=DiagonalCiutatdeGranada
+2.17228212,41.38890733;Pla�a Urquinaona;Barcelona;;http://www.bcn.cat/transit/imatges/PlUrquinaona.gif?a=1;IMI;bcn;PlUrquinaona;?font=bcn&id=PlUrquinaona
+2.18124953,41.39914869;Gran Via - Marina;Barcelona;;http://www.bcn.cat/transit/imatges/GranViaMarina.gif?a=1;IMI;bcn;GranViaMarina;?font=bcn&id=GranViaMarina
+2.14976484,41.37516851;Pla�a Espanya - Paral�lel;Barcelona;;http://www.bcn.cat/transit/imatges/PlEspanya.gif?a=1;IMI;bcn;PlEspanya;?font=bcn&id=PlEspanya
+2.16863241,41.38749875;Pla�a Catalunya - Pelai;Barcelona;;http://www.bcn.cat/transit/imatges/PlCatalunya.gif?a=1;IMI;bcn;PlCatalunya;?font=bcn&id=PlCatalunya
+2.1871113,41.42029817;Meridiana - Felip II;Barcelona;;http://www.bcn.cat/transit/imatges/MeridianaFelipII.gif?a=1;IMI;bcn;MeridianaFelipII;?font=bcn&id=MeridianaFelipII
+2.17973115,41.37724461;Ronda Litoral / Moll de la Fusta;Barcelona;;http://www.bcn.cat/transit/imatges/RondaLitoralMollFusta.gif?a=1;IMI;bcn;RondaLitoralMollFusta;?font=bcn&id=RondaLitoralMollFusta
+2.20302198,41.39294027;Ronda Litoral / Badajoz;Barcelona;;http://www.bcn.cat/transit/imatges/RondaLitoralBadajoz.gif?a=1;IMI;bcn;RondaLitoralBadajoz;?font=bcn&id=RondaLitoralBadajoz
+2.1877678,41.44698951;Ronda de Dalt / Meridiana;Barcelona;;http://www.bcn.cat/transit/imatges/RondadeDaltMeridiana.gif?a=1;IMI;bcn;RondadeDaltMeridiana;?font=bcn&id=RondadeDaltMeridiana
+2.14417036,41.3810396;Pla�a Pa�sos Catalans;Barcelona;;http://www.bcn.cat/transit/imatges/PlPaissosCatalans.gif?a=1;IMI;bcn;PlPaissosCatalans;?font=bcn&id=PlPaissosCatalans
+2.12703713,41.38836632;Diagonal - Maria Cristina;Barcelona;;http://www.bcn.cat/transit/imatges/DiagonalMCristina.gif?a=1;IMI;bcn;DiagonalMCristina;?font=bcn&id=DiagonalMCristina
+2.18532062,41.38165624;Pla�a Pau Vila;Barcelona;;http://www.bcn.cat/transit/imatges/PlPauVila.gif?a=1;IMI;bcn;PlPauVila;?font=bcn&id=PlPauVila
+2.20924092,41.43597442;Ronda Litoral / Bon Pastor;Barcelona;;http://www.bcn.cat/transit/imatges/RondaLitoralBonPastor.gif?a=1;IMI;bcn;RondaLitoralBonPastor;?font=bcn&id=RondaLitoralBonPastor
+2.18641026,41.44309219;Meridiana - Rio de Janeiro;Barcelona;;http://www.bcn.cat/transit/imatges/MeridianaRioJaneiro.gif?a=1;IMI;bcn;MeridianaRioJaneiro;?font=bcn&id=MeridianaRioJaneiro
+2.16487462,41.39225298;Arag� - Passeig de Gr�cia;Barcelona;;http://www.bcn.cat/transit/imatges/AragoPgGracia.gif?a=1;IMI;bcn;AragoPgGracia;?font=bcn&id=AragoPgGracia
+2.13587689,41.36499236;Pla�a Cerd�;Barcelona;;http://www.bcn.cat/transit/imatges/PlCerda.gif?a=1;IMI;bcn;PlCerda;?font=bcn&id=PlCerda
+2.1849528,41.45989301;C-58;Nus Trinitat;0,5;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc87.jpg;SCT;gencat;nc87;?font=gencat&id=nc87
+2.17446844,41.46672443;C-58;MONTCADA I REIXAC;1,82;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc85.jpg;SCT;gencat;nc85;?font=gencat&id=nc85
+2.1480753,41.4983473;C-58;Ripollet;6,15;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc89.jpg;SCT;gencat;nc89;?font=gencat&id=nc89
+3.09302557,41.95173528;C-66;FORALLAC;5,3;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb24.jpg;SCT;gencat;cb24;?font=gencat&id=cb24
+2.10125687,41.33995348;C-31;HOSPITALET DE LLOBREGAT;195,6;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc5.jpg;SCT;gencat;sc5;?font=gencat&id=sc5
+2.18923558,41.45271277;Meridiana;Meridiana;0;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc86.jpg;SCT;gencat;nc86;?font=gencat&id=nc86
+2.11398874,41.34789812;C-31;Bellvitge;196,93;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc74.jpg;SCT;gencat;sc74;?font=gencat&id=sc74
+2.10717197,41.38256781;B-23;BARCELONA;0;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc29.jpg;SCT;gencat;sc29;?font=gencat&id=sc29
+2.07409722,41.37563461;B-23;SANT JUST DESVERN;3,11;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc33.jpg;SCT;gencat;sc33;?font=gencat&id=sc33
+2.09489396,41.42228551;C-16;Vallvidrera;4,76;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=rc1.jpg;SCT;gencat;rc1;?font=gencat&id=rc1
+2.04971308,41.49846919;C-16;Rub�;14,85;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=rc2.jpg;SCT;gencat;rc2;?font=gencat&id=rc2
+2.00648339,41.55041951;C-16;Terrassa;22,35;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=rc3.jpg;SCT;gencat;rc3;?font=gencat&id=rc3
+2.03784659,41.37396062;B-23;ENLLA� A-2;6,14;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc67.jpg;SCT;gencat;sc67;?font=gencat&id=sc67
+2.02896365,41.38129628;B-23;SANT FELIU DE LLOBREGAT;7,38;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc37.jpg;SCT;gencat;sc37;?font=gencat&id=sc37
+2.29593793,41.48349138;C-32;ALELLA;85,05;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc10.jpg;SCT;gencat;nc10;?font=gencat&id=nc10
+2.02120264,41.29896673;C-32;GAV�;50,37;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc72.jpg;SCT;gencat;sc72;?font=gencat&id=sc72
+2.04994587,41.32687007;C-32;SANT BOI CENTRE;54,3;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc71.jpg;SCT;gencat;sc71;?font=gencat&id=sc71
+2.87571275,41.80793591;C-35;LLAGOSTERA;94,7;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb5.jpg;SCT;gencat;cb5;?font=gencat&id=cb5
+2.99975908,41.80819984;C-31;SANTA CRISTINA D AR�;310;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb14.jpg;SCT;gencat;cb14;?font=gencat&id=cb14
+3.02290548,41.8056958;C-31;CASTELL D AR�;312;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb15.jpg;SCT;gencat;cb15;?font=gencat&id=cb15
+3.06322533,41.82720423;C-31;CASTELL D AR�;316,5;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb17.jpg;SCT;gencat;cb17;?font=gencat&id=cb17
+0.92315682,40.99725499;N-340;C-44 1;1130;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cd14.jpg;SCT;gencat;cd14;?font=gencat&id=cd14
+3.13879509,41.86998066;C-31;PALAM�S;327;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb20.jpg;SCT;gencat;cb20;?font=gencat&id=cb20
+3.06715633,41.95721731;C-66;LA BISBAL D EMPORD�;7,5;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb25.jpg;SCT;gencat;cb25;?font=gencat&id=cb25
+2.97496638,41.82507454;C-65;SANTA CRISTINA D AR�;5,4;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb13.jpg;SCT;gencat;cb13;?font=gencat&id=cb13
+2.89963878,41.82953894;C-65;LLAGOSTERA;12;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb11.jpg;SCT;gencat;cb11;?font=gencat&id=cb11
+2.88415644,41.87047677;C-65;CASS� DE LA SELVA;17;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb10.jpg;SCT;gencat;cb10;?font=gencat&id=cb10
+1.05674869,41.16528684;T-11;TARRAGONA;0;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cd1.jpg;SCT;gencat;cd1;?font=gencat&id=cd1
+0.58057432,40.62733521;N-340;SANT CARLES DE LA RAPIT�;1072;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cd19.jpg;SCT;gencat;cd19;?font=gencat&id=cd19
+0.70822775,40.8236911;N-340;L AMPOLLA;1099,2;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cd17.jpg;SCT;gencat;cd17;?font=gencat&id=cd17
+2.17446844,41.46672443;C-58;MONTCADA I REIXAC;1,82;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc85.jpg;SCT;gencat;nc85;?font=gencat&id=nc85
+2.14169815,41.50420265;C-58;BARBER� DEL VALL�S;7,08;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc15.jpg;SCT;gencat;nc15;?font=gencat&id=nc15
+2.07363899,41.54352325;C-58;SABADELL;15,24;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc20.jpg;SCT;gencat;nc20;?font=gencat&id=nc20
+2.04397781,41.54401155;C-58;TERRASSA;17,73;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc28.jpg;SCT;gencat;nc28;?font=gencat&id=nc28
+2.14492987,41.51579224;AP-7;BARBER� DEL VALL�S;146,5;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc78.jpg;SCT;gencat;nc78;?font=gencat&id=nc78
+2.06568334,41.49006147;AP-7;ST. CUGAT;154;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc80.jpg;SCT;gencat;nc80;?font=gencat&id=nc80
+2.23156279,41.4610999;B-20;BADALONA MONTIGAL�;20;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc81.jpg;SCT;gencat;nc81;?font=gencat&id=nc81
+2.24274935,41.46599223;B-20;BADALONA;21,2;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc64.jpg;SCT;gencat;nc64;?font=gencat&id=nc64
+2.27965398,41.4710549;B-20;MONTGAT;24,65;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc67.jpg;SCT;gencat;nc67;?font=gencat&id=nc67
+2.07121286,41.33229667;B-20;SANT BOI;0,83;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc65.jpg;SCT;gencat;sc65;?font=gencat&id=sc65
+2.08163599,41.33576213;B-20;EL PRAT;1,65;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc64.jpg;SCT;gencat;sc64;?font=gencat&id=sc64
+2.75909615,41.7852123;C-35;MA�ANET DE LA SELVA;84;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb1.jpg;SCT;gencat;cb1;?font=gencat&id=cb1
+0.45593978,41.53806059;A-2;SOSES;445;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc62.jpg;SCT;gencat;sc62;?font=gencat&id=sc62
+0.55225371,41.6266203;A-2;LLEIDA;456,73;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc63.jpg;SCT;gencat;sc63;?font=gencat&id=sc63
+1.41970816,41.62317981;A-2;MONTMANEU;534,5;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc61.jpg;SCT;gencat;sc61;?font=gencat&id=sc61
+1.68214906,41.59419695;A-2;CASTELLOL�;560,58;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc60.jpg;SCT;gencat;sc60;?font=gencat&id=sc60
+2.04238086,41.36891741;A-2;SANT JOAN DESP�;606,09;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc59.jpg;SCT;gencat;sc59;?font=gencat&id=sc59
+2.05385692,41.35565067;A-2;SANT JOAN DESP�;608,13;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc58.jpg;SCT;gencat;sc58;?font=gencat&id=sc58
+2.01125799,41.41351189;B-23;SANT VICEN� DELS HORTS;11,1;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc40.jpg;SCT;gencat;sc40;?font=gencat&id=sc40
+2.0043869,41.43493787;B-23;PAPIOL;13,57;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc43.jpg;SCT;gencat;sc43;?font=gencat&id=sc43
+1.99412641,41.44633866;B-23;PAPIOL;15,2;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc44.jpg;SCT;gencat;sc44;?font=gencat&id=sc44
+2.21762793,41.42453068;C-31;SANT ADRI� DE BES�S;209,13;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc2.jpg;SCT;gencat;nc2;?font=gencat&id=nc2
+2.22474675,41.43189432;C-31;BADALONA;210,15;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc3.jpg;SCT;gencat;nc3;?font=gencat&id=nc3
+2.23201444,41.44322244;C-31;BADALONA CENTRE;211,64;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc82.jpg;SCT;gencat;nc82;?font=gencat&id=nc82
+2.27239654,41.46464921;C-31;MONTGAT;215,81;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=nc8.jpg;SCT;gencat;nc8;?font=gencat&id=nc8
+1.99965568,41.26998903;C-31;CASTELLDEFELS;182,65;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc18.jpg;SCT;gencat;sc18;?font=gencat&id=sc18
+2.05576847,41.29348633;C-31;VILADECANS;188,94;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc12.jpg;SCT;gencat;sc12;?font=gencat&id=sc12
+2.07335412,41.31879083;C-31;AEROPORT;192,18;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=sc70.jpg;SCT;gencat;sc70;?font=gencat&id=sc70
+2.84190458,41.8017901;C-35;CALDES DE MALAVELLA;91,5;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb4.jpg;SCT;gencat;cb4;?font=gencat&id=cb4
+2.87571275,41.80793591;C-35;LLAGOSTERA;94,7;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb5.jpg;SCT;gencat;cb5;?font=gencat&id=cb5
+2.89657676,41.81103899;C-35;LLAGOSTERA;96,5;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb6.jpg;SCT;gencat;cb6;?font=gencat&id=cb6
+3.06715633,41.95721731;C-66;LA BISBAL D EMPORD�;7,5;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb25.jpg;SCT;gencat;cb25;?font=gencat&id=cb25
+2.88415644,41.87047677;C-65;CASS� DE LA SELVA;17;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cb10.jpg;SCT;gencat;cb10;?font=gencat&id=cb10
+0.70822775,40.8236911;N-340;L AMPOLLA;1099,2;http://mct.gencat.cat/mct2bo/RenderService?sctidcam=cd17.jpg;SCT;gencat;cd17;?font=gencat&id=cd17
+2.00746247,41.5569824;Pl Dore;Terrassa;;http://urgell.terrassa.cat/it_terrassa/cam01.jpeg?a=1;Terrassa;terrassa;cam01;?font=terrassa&id=cam01
+2.01768703,41.55813019;Topete-Montcada;Terrassa;;http://urgell.terrassa.cat/it_terrassa/cam02.jpeg?a=1;Terrassa;terrassa;cam02;?font=terrassa&id=cam02
+2.00210668,41.57383071;Tarradelles-Abad Marcet;Terrassa;;http://urgell.terrassa.cat/it_terrassa/cam03.jpeg?a=1;Terrassa;terrassa;cam03;?font=terrassa&id=cam03
+2.02210166,41.56410054;Jaquard-Castellar;Terrassa;;http://urgell.terrassa.cat/it_terrassa/cam04.jpeg?a=1;Terrassa;terrassa;cam04;?font=terrassa&id=cam04
+2.03347089,41.5682078;Avda. Vall�s - 22 juliol (est);Terrassa;;http://urgell.terrassa.cat/it_terrassa/cam05.jpeg?a=1;Terrassa;terrassa;cam05;?font=terrassa&id=cam05
+2.03453844,41.56818817;Avda. Vall�s - 22 juliol (oest);Terrassa;;http://urgell.terrassa.cat/it_terrassa/cam06.jpeg?a=1;Terrassa;terrassa;cam06;?font=terrassa&id=cam06
+2.02789291,41.55667167;Avda. Gl. Catalanes-Agricultura;Terrassa;;http://urgell.terrassa.cat/it_terrassa/cam07.jpeg?a=1;Terrassa;terrassa;cam07;?font=terrassa&id=cam07

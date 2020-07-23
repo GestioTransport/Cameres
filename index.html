@@ -11,7 +11,7 @@
     const id_cam = urlParams.get('id')
     const font = urlParams.get('font')
     function myFunction() {
-        myVar = setInterval(upd, 60000);
+        myVar = setInterval(upd, 150000);
     }
     function actualitza(){
         document.getElementById('iframeid').src = 'https://raw.githubusercontent.com/GestioTransport/Cameres/master/loading.png';
@@ -22,9 +22,9 @@
             case "terrassa":
                 document.getElementById('iframeid').src = 'http://urgell.terrassa.cat/it_terrassa/'+id_cam+'.jpeg?a=1'; break;
             case "andorra":
-                document.getElementById('iframeid').src = 'http://www.mobilitat.ad/mapa/fotos/'+id_cam+'.jpg?a=1'; break;
+                document.getElementById('iframeid').src = 'https://app.mobilitat.ad/gifs/RotAnyos.gif'+id_cam+'.gif'; break;
             default:
-                document.getElementById('iframeid').src = 'http://mct.gencat.cat/mct2bo/RenderService?sctidcam='+id_cam+'.jpg'; break;
+                document.getElementById('iframeid').src = 'http://mct.gencat.cat/mct2bo/RenderService?sctidcam='+id_cam+'.gif'; break;
 
         }
         var currentdate = new Date(); 
